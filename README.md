@@ -1,2 +1,3 @@
 # Multiplayer-Matchmaking-Platformer2D
  
+Platformer 2D Game that joins small (4-12) groups of players on same game session. They compete in levelling up their characters by defeating monsters and improving their equipment. Players are able to travel through (at least) 2 graphically and mechanically different zones. Map is limited on corners. Other description to be continued...
