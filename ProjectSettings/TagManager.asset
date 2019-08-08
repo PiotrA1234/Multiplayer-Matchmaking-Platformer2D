@@ -10,8 +10,9 @@ TagManager:
   - Down
   - Center
   - Surrounding
-  - Furnishings
   - Enemies
+  - Oasis
+  - Environment
   layers:
   - Default
   - TransparentFX
