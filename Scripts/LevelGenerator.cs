@@ -24,7 +24,7 @@ public class LevelGenerator : MonoBehaviour
     public int licznik;
     public float timer = 0f;
     public float time = 2f;
-    public string MapType;                  /// tutaj ustalam map type i w linijkach 80 wtedy dla danego typu mapy np desert, grass, winter ustawiam level
+    public string MapType;                
         
         
         /// </summary>
